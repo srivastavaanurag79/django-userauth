@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% load i18n %}
+{% load bootstrap4 %}
+
+{% block head_title %}Simple Web Application{% endblock %}
+
+{% block content %}
+<section style="background: white;">
+    <div class="container">
+        <div class="row">
+            <div class="col col-12 pb-5">
+                <div class="clearfix"></div>
+                <h1 class=" " style="margin-top: 15rem;">Django Web Application Example</h1>
+                <h3>The example covers:</h3>
+                <p>
+                - [x] all the user registrations use cases by django-allauth (all the templates uses bootstrap4 UI )
+                <br>
+                - [x] custom user profile model (one to one relation with User model).
+                <br>
+                    - [x] update user information,
+                    <br>
+
+                - [x] email backend service(django-anymail) email templates (django-allauth) to work with registration flow
+                <br>
+                - [x] You can update your details once you login.
+                <br>
+                - [x] You can also reset your password.
+
+            </div>
+
+        </div>
+    </div>
+</section>
+{% endblock %}
