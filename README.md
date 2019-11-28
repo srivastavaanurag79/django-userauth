@@ -29,7 +29,7 @@ Homepage
 
 Signin Page
 ---------
-![Signin](screenshots/signin.png)
+![Login](screenshots/signin.png)
 
 Signup Page
 ---------
