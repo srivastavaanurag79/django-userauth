@@ -47,15 +47,14 @@ User Profile page
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
--open terminal
+- open terminal
 - Change to the directory of the project and install the requirements.txt
 
 ```bash
 pip3 install -r requirements.txt
 ```
 ## Usage
--Open terminal
- Change to the directory of the project ,i.e, /webapp
+- Open terminal, change to the directory of the project ,i.e, /webapp
 
 - Migrate the Tables from database
 ```bash
