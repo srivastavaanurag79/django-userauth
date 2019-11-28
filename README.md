@@ -45,7 +45,7 @@ User Profile page
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
 -open terminal
 - Change to the directory of the project and install the requirements.txt
