@@ -27,7 +27,7 @@ Homepage
 ---------
 ![homepage](screenshots/homepage.png)
 
-Signin Page
+Login Page
 ---------
 ![Login](screenshots/signin.png)
 
