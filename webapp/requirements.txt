@@ -1,4 +1,4 @@
-Django==2.2.26
+Django==2.2.28
 django-allauth==0.39.1
 django-anymail==6.1.0
 django-bootstrap4==0.0.8
